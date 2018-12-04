@@ -1,0 +1,7 @@
+D:\Assignment4\QAA4TestSuite\QAA4TestSuite\bin\Debug\QAA4TestSuite.exe.config
+D:\Assignment4\QAA4TestSuite\QAA4TestSuite\bin\Debug\QAA4TestSuite.exe
+D:\Assignment4\QAA4TestSuite\QAA4TestSuite\bin\Debug\QAA4TestSuite.pdb
+D:\Assignment4\QAA4TestSuite\QAA4TestSuite\obj\Debug\QAA4TestSuite.csprojAssemblyReference.cache
+D:\Assignment4\QAA4TestSuite\QAA4TestSuite\obj\Debug\QAA4TestSuite.csproj.CoreCompileInputs.cache
+D:\Assignment4\QAA4TestSuite\QAA4TestSuite\obj\Debug\QAA4TestSuite.exe
+D:\Assignment4\QAA4TestSuite\QAA4TestSuite\obj\Debug\QAA4TestSuite.pdb
