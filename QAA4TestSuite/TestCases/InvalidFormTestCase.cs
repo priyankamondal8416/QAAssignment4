@@ -19,7 +19,6 @@ namespace TestCases
     class InvalidFormTestCase
     {
         private IWebDriver driver;
-        private StringBuilder verificationErrors;
         private string baseURL;
         private bool acceptNextAlert = true;
 
@@ -28,7 +27,6 @@ namespace TestCases
         {
             driver = new FirefoxDriver();
             baseURL = "http://localhost/QAA4/index.html";
-            verificationErrors = new StringBuilder();
         }
 
         [TearDown]
@@ -42,7 +40,6 @@ namespace TestCases
             {
                 // Ignore errors if unable to close the browser
             }
-            Assert.AreEqual("", verificationErrors.ToString());
         }
 
         [Test]
